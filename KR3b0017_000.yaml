@@ -1,0 +1,21 @@
+canonical_identifier: bkk:krp/KR3b0017/krp/v1/juan/0
+seq: 0
+front:
+  text: 欽定四庫全書子部二
+  hash: sha256:7e32dae4903853b48f89828e61d4081cf4abc5e504c25d2bc384a1194cb036b2
+  markers:
+  - {type: page-break, offset: 0, content: '', id: KR3b0017_WYG_000-1a, image: WYG0727/WYG0727-0675a.png}
+body:
+  text: 陳紀兵家類提要臣等謹案陳紀四卷明何良臣撰良臣字惟聖揚州人是編皆述練兵之法卷一曰募選束伍教練致用賞罰節制二卷曰竒正虛實衆寡率然技用三卷曰陳宜戰令戰機四卷曰摧陷因勢車戰騎戰步戰水戰火戰夜戰山林谷澤之戰風雨雪霧之戰凡二十三數共六十六篇明之中葉武備廢弛疆圉有警大抵鳩烏合以赴敵十出九敗故良臣所述切切以選練為先其所列機要亦多即中原野戰立說夫事機萬變應在一心蘇軾所謂神兵非學到自古不留訣也明代談兵之家自戚繼光諸書外往往捃托陳言橫生鄙論如湯光烈之掘穽藏錐彭翔之木人火馬殆如戲劇惟良臣嘗身在軍中目睹形勢非憑虛理斷攘袂坐談者可比在明代兵家猶為切實近理者矣乾隆四十五年九月恭校上總纂官臣紀昀臣陸錫熊臣孫士毅總校官臣陸費墀
+  hash: sha256:1067659ec56606df4a30f219f4f35f20d59d13293e9ffb4b00c2027e471aec0f
+metadata:
+  title: 陣紀
+  edition:
+    short: krp
+  base_edition: WYG
+  date: '2015-08-24 23:02:52.254316'
+  juan_title: 提要
+  source:
+    repository: kanripo
+    path: KR3b0017/KR3b0017_000.txt
+hash: sha256:bc46d5c6376f8e11b5f40dedbe434474ee4318f343bcf7bd8cc21778afcdce98
